@@ -41,6 +41,8 @@ Arquiteruo mvc
 A API do via cep deve ser chamada no front porquê será mostrado os dados, dando a possibilidade do usuario editar caso a API
 coloque o local errado.
 
+base url da API via cep: https://viacep.com.br/ws/{cep}/json/
+
 ![Captura de ecrã de 2022-01-31 11-29-39](https://user-images.githubusercontent.com/84341683/151812045-0e8744ea-9355-4565-9275-e6653af2515e.png)
 
 
